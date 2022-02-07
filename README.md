@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My name is Simon
+- 👤 My LinkedIn profile: [Simon Berndtsson](https://linkedin.com/in/simon-berndtsson-4a0b13108)
 
 <!--
 **Primital/Primital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
